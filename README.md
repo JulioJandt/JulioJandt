@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Sou desenvolvedor vue.js, react e php/<br>laravel, atualmente trabalho<br>como desenvolvedor web na H2J Innovative Solution<br>cuidando da infra.<br>Estou sempre buscando novas formas para me<br>aperfeisuar
+Sou desenvolvedor vue.js, react e php/<br>laravel, atualmente trabalho<br>como desenvolvedor web na H2J Innovative Solution<br>e também sou responsavel pelo infra.<br>Estou sempre buscando novas formas para me<br>aperfeisuar
 
 
 ## 🌐 Socials:
